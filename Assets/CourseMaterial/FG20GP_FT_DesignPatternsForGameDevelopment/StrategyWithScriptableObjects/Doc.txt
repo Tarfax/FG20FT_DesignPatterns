@@ -1,0 +1,3 @@
+https://dev.to/eriksk/implementing-the-strategy-design-pattern-using-scriptable-objects-in-unity-292i
+
+https://www.youtube.com/watch?v=raQ3iHhE_Kk&ab_channel=Unity

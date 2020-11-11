@@ -1,0 +1,13 @@
+https://gameprogrammingpatterns.com/observer.html
+
+I am not using the example of the book, but I showed the link for
+it's good historical information about the observer pattern.
+
+We will use the C# Action class and the static events instead, for
+their ease of implementation and their power.
+
+I did an example showing C# Actions in action:
+A button when is clicked it will fire an On Clicked event to which 
+2 different objects (Cube & Sphere) subscribe themselves.
+When the Event is fired each subscriber react the way he wants:
+The Cube switched its color and the Sphere changed its position.
